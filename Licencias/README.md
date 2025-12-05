@@ -4,7 +4,10 @@
 
 
 
-¡Excelente idea! Es muy importante proteger tu trabajo y dejar claro los términos de uso. Te ayudo con los archivos de licencia y documentación.
+----
+
+
+Es muy importante proteger tu trabajo y dejar claro los términos de uso. Te ayudo con los archivos de licencia y documentación.
 
 ## 📄 Parte 10 — Archivos de Licencia y Documentación
 
@@ -266,6 +269,5 @@ Licencia: MIT
 - ✅ Código de conducta para contribuciones
 - ✅ Créditos en todos los archivos
 
-¿Te parece bien esta estructura de licencia? ¿Quieres que ajustemos algo o agreguemos más archivos de configuración?
 
-Cuando estés listo, continuamos con los siguientes módulos del sistema. 😊
+----
